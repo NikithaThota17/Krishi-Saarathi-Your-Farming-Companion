@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514504619223",
+    "project_id": "agriculture-app-84774",
+    "storage_bucket": "agriculture-app-84774.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514504619223:android:11bebc3e79f02aa0faec92",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSJcDjkPG7bVLXyLFPwtmMDqx9IK0Dy2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
